@@ -64,7 +64,13 @@ O objetivo é escolher uma das três opções e tentar vencer a Alexia. A cada r
 
 ---
 
-📄 Licença
+## 📄 Licença
 
-Este projeto é de uso livre para estudo e prática.
-Sinta-se à vontade para estudar! 🚀
+-Este projeto foi desenvolvido com fins educacionais como parte dos estudos realizados na plataforma **DevClub**, sob orientação do professor **Rodolfo Mori**.
+
+-Você pode utilizar, modificar e compartilhar este código livremente para fins de aprendizado e prática pessoal.  
+-Caso deseje utilizar em projetos públicos ou comerciais, recomenda-se manter os créditos originais.
+
+**Todos os direitos de ensino e metodologia pertencem ao DevClub e Rodolfo Mori.**
+
+🚀 Aprenda mais em: [https://devclub.com.br](https://devclub.com.br)
